@@ -15,5 +15,6 @@ Copiamos esa IP
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-13-db/assets/134556600/c4eb4c52-5e84-4682-aec4-0c4b76fed218)
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13-db/assets/134556600/71e2e550-7df0-4f0e-aef6-2da3d3d08c2e)
 
 
